@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\samis\Downloads\Taller4_LightsOut_esqueletoV1\.metadata\.plugins\org.eclipse.jdt.core
+3513435879.index
+1865797976.index
+22247414.index
